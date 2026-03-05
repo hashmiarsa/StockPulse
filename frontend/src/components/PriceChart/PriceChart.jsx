@@ -9,17 +9,17 @@ const PriceChart = (props) => {
     let mounted = true;
     const ctx = document.getElementById(id);
     const data = {
-      labels: [currPrice.toFixed(2) || 0],
-      datasets: [{
-        data: [currPrice.toFixed(2) || 0],
-        label: 'Price',
-        backgroundColor: '#10B981',
-        borderColor: '#10B981',
-        borderWidth: 2,
-        pointRadius: 2,
-        tension: 0.3,
-      }]
-    };
+    labels: [Number(currPrice || 0).toFixed(2)],
+    datasets: [{
+      data: [Number(currPrice || 0).toFixed(2)],
+      label: 'Price',
+      backgroundColor: '#10B981',
+      borderColor: '#10B981',
+      borderWidth: 2,
+      pointRadius: 2,
+      tension: 0.3,
+    }]
+  };
 
     const optionsSet = {
       animation: false,
