@@ -224,7 +224,7 @@ stockpulse/
 
 **System Overview**
 
-![System Architecture](../StockPulse/architecture_diagrams/MockStocksSystem.png)
+![System Architecture](./architecture_diagrams/MockStocksSystem.png)
 
 **Database Schema**
 
@@ -236,7 +236,7 @@ stockpulse/
 
 **Frontend (Component Hierarchy)**
 
-![Frontend Architecture](../StockPulse/architecture_diagrams/MockStocksFrontend.png)
+![Frontend Architecture](.architecture_diagrams/MockStocksFrontend.png)
 
 ---
 
