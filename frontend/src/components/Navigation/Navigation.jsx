@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { Link, NavLink, useHistory, useLocation } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 import decode from 'jwt-decode';
-import ToggleTheme from '../ToggleTheme/ToggleTheme';
+// import ToggleTheme from '../ToggleTheme/ToggleTheme';
 import { getUserInfo } from "../../actions/auth";
 import { LOGOUT } from '../../constants/actions';
 import DefaultAvatarImage from '../../assets/images/avatar.jpg';
