@@ -4,7 +4,7 @@
 
 **A full-stack MERN trading platform simulation with real-time price updates and a fully custom Robinhood-inspired UI redesign.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-github-black?style=for-the-badge&logo=vercel)](https://hashmiarsa.github.io/StockPulse/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-vercel-black?style=for-the-badge&logo=vercel)](https://stock-pulse-olive.vercel.app/)
 
 
 ---
