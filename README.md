@@ -184,18 +184,7 @@ cd frontend && npm start
 
 > 🔴 **Note:** Turn off VPN before starting — MongoDB Atlas may not connect through VPN.
 
----
 
-## ☁️ Deploying to Vercel
-
-1. Push your project to GitHub
-2. Go to [vercel.com](https://vercel.com) → **New Project**
-3. Import your GitHub repository
-4. Set **Root Directory** to `frontend`
-5. Add all environment variables from your `.env`
-6. Click **Deploy** ✅
-
----
 
 ## 🗂️ Project Structure
 
@@ -271,42 +260,5 @@ Stock data is represented as:
   "favorited": false,
   "timesBought": 12
 }
-```
 
----
-
-## 🧪 Testing
-
-**Frontend Unit Tests** — [React Testing Library](https://testing-library.com/)
-```bash
-cd frontend && npm test
-```
-
-**End-to-End Tests** — [Cypress](https://www.cypress.io/)
-```bash
-cd frontend && npx cypress open
-```
-
----
-
-## 📦 Pushing to GitHub
-
-```bash
-# Initialize git (if not already)
-git init
-
-# Add all files
-git add .
-
-# Commit
-git commit -m "Initial commit - StockPulse UI Redesign"
-
-# Add your GitHub remote
-git remote add origin https://github.com/hashmiarsa/stockpulse.git
-
-# Push
-git push -u origin main
-```
-
----
 
