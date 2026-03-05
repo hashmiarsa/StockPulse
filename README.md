@@ -2,17 +2,27 @@
 
 <div align="center">
 
-| 🏠 Home | 🏪 Markets & Buying | 💼 Investments & Dashboard |
-|--------|-------------------|--------------------------|
-| ![Home Preview](./demo_gifs/HomePage.gif) | ![Markets Preview](./demo_gifs/MarketAndBuying.gif) | ![Dashboard Preview](./demo_gifs/InvestmentAndDashboard.gif) |
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://your-vercel-url.vercel.app)
-
-
 **A full-stack MERN trading platform simulation with real-time price updates and a fully custom Robinhood-inspired UI redesign.**
 
-</div>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-github-black?style=for-the-badge&logo=vercel)](https://hashmiarsa.github.io/StockPulse/)
 
+
+---
+
+### 🏠 Home Page
+![Home Preview](./demo_gifs/HomePage.gif)
+
+---
+
+### 🏪 Markets & Buying
+![Markets Preview](./demo_gifs/MarketAndBuying.gif)
+
+---
+
+### 💼 Investments & Dashboard
+![Dashboard Preview](./demo_gifs/InvestmentAndDashboard.gif)
+
+</div>
 ---
 
 ## 📌 Overview
