@@ -224,19 +224,19 @@ stockpulse/
 
 **System Overview**
 
-![System Architecture](./architecture_diagrams/StockPulseSystem.png)
+![System Architecture](../StockPulse/architecture_diagrams/MockStocksSystem.png)
 
 **Database Schema**
 
-![Database Architecture](./architecture_diagrams/StockPulseDatabase.png)
+![Database Architecture](./architecture_diagrams/MockStocksDatabase.png)
 
 **Backend (MVC)**
 
-![Backend Architecture](./architecture_diagrams/StockPulseBackend.png)
+![Backend Architecture](./architecture_diagrams/MockStocksBackend.png)
 
 **Frontend (Component Hierarchy)**
 
-![Frontend Architecture](./architecture_diagrams/StockPulseFrontend.png)
+![Frontend Architecture](../StockPulse/architecture_diagrams/MockStocksFrontend.png)
 
 ---
 
