@@ -2,17 +2,18 @@
 
 <div align="center">
 
-![StockPulse Banner](./demo_gifs/Mock%20Stocks%20_%20Trading%20Platform%20and%201%20more%20page%20-%20Personal%20-%20Microsoft​%20Edge%202026-03-05%2019-34-46.mp4)
+| 🏠 Home | 🏪 Markets & Buying | 💼 Investments & Dashboard |
+|--------|-------------------|--------------------------|
+| ![Home Preview](./demo_gifs/HomePage.gif) | ![Markets Preview](./demo_gifs/MarketAndBuying.gif) | ![Dashboard Preview](./demo_gifs/InvestmentAndDashboard.gif) |
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://your-vercel-url.vercel.app)
-
 
 
 **A full-stack MERN trading platform simulation with real-time price updates and a fully custom Robinhood-inspired UI redesign.**
 
 </div>
 
---- 
+---
 
 ## 📌 Overview
 
@@ -236,7 +237,7 @@ stockpulse/
 
 **Frontend (Component Hierarchy)**
 
-![Frontend Architecture](.architecture_diagrams/MockStocksFrontend.png)
+![Frontend Architecture](./architecture_diagrams/MockStocksFrontend.png)
 
 ---
 
@@ -263,7 +264,6 @@ Stock data is represented as:
 ```
 
 ---
-
 
 ## 🧪 Testing
 
@@ -292,9 +292,11 @@ git add .
 git commit -m "Initial commit - StockPulse UI Redesign"
 
 # Add your GitHub remote
-git remote add origin https://github.com/your-username/stockpulse.git
+git remote add origin https://github.com/hashmiarsa/stockpulse.git
 
 # Push
 git push -u origin main
 ```
+
+---
 
