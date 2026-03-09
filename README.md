@@ -10,17 +10,17 @@
 ---
 
 ### 🏠 Home Page
-![Home Preview](./demo_gifs/HomePage.gif)
+![Home Preview](./Project_files/demo_gifs/HomePage.gif)
 
 ---
 
 ### 🏪 Markets & Buying
-![Markets Preview](./demo_gifs/MarketAndBuying.gif)
+![Markets Preview](./Project_files/demo_gifs/MarketAndBuying.gif)
 
 ---
 
 ### 💼 Investments & Dashboard
-![Dashboard Preview](./demo_gifs/InvestmentAndDashboard.gif)
+![Dashboard Preview](./Project_files/demo_gifs/InvestmentAndDashboard.gif)
 
 </div>
 ---
@@ -224,19 +224,19 @@ stockpulse/
 
 **System Overview**
 
-![System Architecture](./architecture_diagrams/MockStocksSystem.png)
+![System Architecture](./Project_files/architecture_diagrams/MockStocksSystem.png)
 
 **Database Schema**
 
-![Database Architecture](./architecture_diagrams/MockStocksDatabase.png)
+![Database Architecture](./Project_files/architecture_diagrams/MockStocksDatabase.png)
 
 **Backend (MVC)**
 
-![Backend Architecture](./architecture_diagrams/MockStocksBackend.png)
+![Backend Architecture](./Project_files/architecture_diagrams/MockStocksBackend.png)
 
 **Frontend (Component Hierarchy)**
 
-![Frontend Architecture](./architecture_diagrams/MockStocksFrontend.png)
+![Frontend Architecture](./Project_files/architecture_diagrams/MockStocksFrontend.png)
 
 ---
 
