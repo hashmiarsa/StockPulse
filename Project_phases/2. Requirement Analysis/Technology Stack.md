@@ -12,7 +12,7 @@ StockPulse is built on the **MERN stack** — a popular full-stack JavaScript te
 
 ## Technology Stack Diagram
 
-![System Architecture](../../architecture_diagrams/MockStocksSystem.png)
+![System Architecture](../../Project_files/architecture_diagrams/MockStocksSystem.png)
 
 *The system diagram shows how all technologies interact: React (frontend) ↔ Express REST API + Socket.IO (backend) ↔ Mongoose ODM ↔ MongoDB Atlas (database)*
 

@@ -12,7 +12,7 @@ StockPulse follows a **three-tier client-server architecture** with an additiona
 
 ## 2. System Architecture Diagram
 
-![System Architecture](../../architecture_diagrams/MockStocksSystem.png)
+![System Architecture](../../Project_files/architecture_diagrams/MockStocksSystem.png)
 
 *The above diagram illustrates the complete system: React Frontend (Vercel) communicates with the Express REST API and Socket.IO WebSocket server (Node.JS runtime), which in turn interacts with MongoDB Atlas via Mongoose ODM.*
 
@@ -49,7 +49,7 @@ StockPulse follows a **three-tier client-server architecture** with an additiona
 
 ## 4. Backend MVC Architecture
 
-![Backend Architecture](../../architecture_diagrams/MockStocksBackend.png)
+![Backend Architecture](../../Project_files/architecture_diagrams/MockStocksBackend.png)
 
 *The above diagram shows the MVC pattern within the Express backend: API Endpoints receive HTTP requests → Routes forward to appropriate Controllers → Controllers use Models (which derive structure from MongoDB collections) to read/write data → Returns JSON responses.*
 
@@ -87,7 +87,7 @@ backend/
 
 ## 5. Database Schema Architecture
 
-![Database Schema](../../architecture_diagrams/MockStocksDatabase.png)
+![Database Schema](../../Project_files/architecture_diagrams/MockStocksDatabase.png)
 
 *The above diagram shows the entity relationships between all 5 MongoDB collections: User (1) → (*) PurchasedStock (*) → (1) Stock, User (1) → (*) Transaction (*) → (1) Stock, User (1) → (*) Log*
 

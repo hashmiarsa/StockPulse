@@ -12,7 +12,7 @@ This document describes how data flows through the StockPulse system — from th
 
 ## System Architecture Reference
 
-![System Architecture](../../architecture_diagrams/MockStocksSystem.png)
+![System Architecture](../../Project_files/architecture_diagrams/MockStocksSystem.png)
 
 *The above diagram shows the complete system: React Frontend hosted on Vercel, Express REST API and Socket.IO WebSocket server executed by Node.JS, Mongoose ODM connecting to MongoDB Atlas Cloud Database.*
 
@@ -190,13 +190,13 @@ UI updates: balance in nav, investment removed from list
 
 ### Backend MVC Reference
 
-![Backend Architecture](../../architecture_diagrams/MockStocksBackend.png)
+![Backend Architecture](../../Project_files/architecture_diagrams/MockStocksBackend.png)
 
 *The above diagram shows the MVC pattern: API Endpoint → Routes → Controllers → Database, with Models defining structure from MongoDB collections.*
 
 ### Database Schema Reference
 
-![Database Schema](../../architecture_diagrams/MockStocksDatabase.png)
+![Database Schema](../../Project_files/architecture_diagrams/MockStocksDatabase.png)
 
 *The above diagram shows all 5 collections: User, Stock, PurchasedStock, Transaction, Log — with their fields and relationships.*
 
